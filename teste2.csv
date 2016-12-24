@@ -1,0 +1,54 @@
+Codigo,Area,Quartos,Banheiros,Suites,Vagas,Condominio,Endereco,IPTU,Titulo,Preco
+002,70m2,3,2,1,1,350,"Rua Vereador Geraldo Pereira, 249",83,apartamento para alugar no padre eustaquio,R$ 1.500
+003,80m2,3,2,1,1,250,"Rua Cônego Floriano, 258",105,apartamento para alugar no sagrada familia,R$ 1.500
+004,40m2,1,1,0,1,850,"Praça Hugo Werneck, 537",122,apartamento para alugar no santa efigenia,R$ 1.150
+005,100m2,3,2,1,1,300,"Rua Bernardino De Lima, 351",126,apartamento para alugar no gutierrez,R$ 1.600
+008,65m2,3,2,1,1,347,"Rua Domingos Fernandes, 89",120,apartamento para alugar no uniao,R$ 900
+010,110m2,3,2,1,1,380,"Rua Deputado Bernardino De Sena Figueiredo, 9",160,apartamento para alugar no cidade nova,R$ 1.600
+013,85m2,3,2,1,1,350,"Rua João Gualberto Filho, 1225",91,apartamento para alugar no sagrada familia,R$ 1.300
+015,80m2,2,2,1,1,513,"Rua Paula Cândido, 403",116,apartamento para alugar no grajau,R$ 1.100
+016,95m2,3,1,1,1,270,"Rua Miranda Ribeiro, 220",155,apartamento para alugar no vila paris,R$ 1.500
+017,21m2,1,1,1,0,780,"Avenida Prudente De Morais, 520",153,apartamento para alugar no cidade jardim,R$ 1.300
+019,95m2,3,2,1,2,250,"Rua Doutor Célio Andrade, 40",124,apartamento para alugar no buritis,R$ 1.350
+024,130m2,4,3,1,3,836,"Rua Mestre Luiz, 46",427,apartamento para alugar no sao pedro,R$ 4.400
+025,165m2,4,3,1,3,1.280,"Rua Espírito Santo, 2701",665,apartamento para alugar no lourdes,R$ 3.300
+026,70m2,2,1,0,1,447,"Rua Frutal, 245",81,apartamento para alugar no santa efigenia,R$ 1.100
+027,60m2,2,1,0,1,453,"Avenida Nossa Senhora Do Carmo, 1825",108,apartamento para alugar no sion,R$ 1.500
+028,120m2,3,2,1,2,1.000,"Avenida Afonso Pena, 3808",201,apartamento para alugar no cruzeiro,R$ 2.000
+029,80m2,2,3,2,2,679,"Avenida Raja Gabaglia, 1583",186,apartamento para alugar no luxemburgo,R$ 1.700
+032,40m2,1,1,1,1,452,"Rua Teixeira De Freitas, 784",69,apartamento para alugar no santo antonio,R$ 1.000
+039,60m2,2,3,2,2,N/D,"Rua Paraguai, 89",N/D,apartamento para alugar no sion,R$ 2.390
+041,110m2,3,2,1,2,650,"Rua São João Do Paraíso, 265",230,apartamento para alugar no sion,R$ 2.200
+042,70m2,2,2,1,2,320,"Rua Caetano Dias, 41",225,apartamento para alugar no serra,R$ 1.700
+043,70m2,2,1,0,1,640,"Rua Nunes Vieira, 255",144,apartamento para alugar no santo antonio,R$ 1.600
+044,80m2,3,1,0,1,285,"Rua Professor Pimenta Da Veiga, 192",100,apartamento para alugar no cidade nova,R$ 1.200
+046,55m2,2,1,0,1,330,"Rua Euclásio, 426",70,apartamento para alugar no santa efigenia,R$ 900
+047,50m2,2,1,0,1,230,"Rua Capivari, 596",112,apartamento para alugar no serra,R$ 1.400
+048,65m2,2,1,0,1,450,"Rua Itabira, 510",58,apartamento para alugar no colegio batista,R$ 700
+054,85m2,3,2,1,2,1.035,"Rua Bernardo Guimarães, 1006",326,apartamento para alugar no funcionarios,R$ 1.800
+055,90m2,3,2,1,1,512,"Rua Conselheiro Lafaiete, 2021",105,apartamento para alugar no sagrada familia,R$ 1.400
+057,50m2,2,1,0,2,448,"Avenida Nossa Senhora Do Carmo, 1885",140,apartamento para alugar no sion,R$ 1.100
+058,180m2,4,2,1,2,800,"Rua Plêiades, 415",255,apartamento para alugar no santa lucia,R$ 1.900
+059,40m2,1,1,0,0,450,"Rua Bernardo Guimarães, 1845",115,apartamento para alugar no lourdes,R$ 1.100
+061,142m2,4,2,1,2,700,"Rua Turibaté, 20",285,apartamento para alugar no sion,R$ 2.600
+062,65m2,2,1,0,1,261,"Rua Henrique Passini, 721",47,apartamento para alugar no serra,R$ 900
+063,154m2,4,4,2,4,2.150,"Rua Engenheiro Amaro Lanari, 171",692,apartamento para alugar no sion,R$ 5.000
+068,90m2,3,2,1,1,313,"Rua Itajubá, 2065",120,apartamento para alugar no sagrada familia,R$ 1.300
+069,220m2,4,5,4,4,1.330,"Alameda Oscar Niemeyer, 1374",84,apartamento para alugar no vila da serra,R$ 8.000
+070,160m2,4,3,1,2,930,"Rua Visconde Do Rio Das Velhas, 262",314,apartamento para alugar no vila paris,R$ 2.300
+072,100m2,3,2,1,2,560,"Rua Pium-i, 890",350,apartamento para alugar no anchieta,R$ 3.200
+073,70m2,2,2,1,2,200,"Rua Professor Antônio Márcio, 526",74,apartamento para alugar no palmares,R$ 1.100
+074,75m2,2,1,0,1,358,"Rua Alegrete, 114",77,apartamento para alugar no sagrada familia,R$ 1.200
+075,100m2,3,2,1,2,250,"Rua Cantor Luiz Gonzaga, 463",103,apartamento para alugar no castelo,R$ 1.300
+076,98m2,3,2,1,1,180,"Rua Paulista, 922",90,apartamento para alugar no fernao dias,R$ 1.300
+077,200m2,4,3,1,2,1.200,"Rua Califórnia, 788",294,apartamento para alugar no sion,R$ 2.400
+078,52m2,1,2,1,1,N/D,"Rua Guaicuí, 594",N/D,apartamento para alugar no luxemburgo,R$ 3.500
+080,90m2,3,2,1,2,446,"Avenida Artur Bernardes, 216",254,apartamento para alugar no vila paris,R$ 2.500
+081,140m2,4,4,2,2,1.018,"Rua Flavita Bretas, 609",362,apartamento para alugar no luxemburgo,R$ 2.400
+082,40m2,1,1,1,1,600,"Rua Califórnia, 993",252,apartamento para alugar no sion,R$ 1.800
+083,100m2,3,1,0,0,408,"Avenida Augusto De Lima, 1189",93,apartamento para alugar no barro preto,R$ 1.400
+084,145m2,4,3,1,3,502,"Rua Paula Cândido, 230",249,apartamento para alugar no gutierrez,R$ 2.100
+089,104m2,3,2,1,2,638,"Rua Wilson Modesto Ribeiro, 65",204,apartamento para alugar no ipiranga,R$ 1.800
+092,75m2,2,2,1,1,950,"Rua Teixeira De Freitas, 490",179,apartamento para alugar no santo antonio,R$ 1.100
+093,140m2,4,3,1,2,530,"Rua Dante, 494",198,apartamento para alugar no sao lucas,R$ 2.000
+099,85m2,3,2,1,2,751,"Rua Ana Dias Duarte, 191",N/D,apartamento para alugar no floramar,R$ 1.000
